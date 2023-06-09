@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Build a web basic API with Sinatra and Active Record to support a React6789101112131415161718
+- Build a web basic API with Sinatra and Active Record to support a React678910111213141516171819
   frontend
 
 ## Introduction
